@@ -7,6 +7,7 @@ Este repositório contém o código desenvolvido seguindo o tutorial oficial da 
 - 📌 `dbinfo.inc`: Arquivo contendo as informações de conexão ao banco de dados Amazon RDS.
 - 🌐 `index.php`: Página de teste da conexão com o banco de dados.
 - 📋 `produtos.php`: Página adicional criada para realizar as operações de cadastro e listagem dos produtos.
+- 🗄️ `produtos.sql`: Código para a criação de tabelas do produtos no banco de dados local. (Dbeaver)
 
 ## 🛠️ Estrutura do Banco de Dados
 
